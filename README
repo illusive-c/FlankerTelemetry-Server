@@ -1,1 +1,7 @@
-Keyboard telemetry
+Keyboard telemetry server side code.  C# Code
+
+This is just a placeholder. Untill I finalize the Arduino part
+I needed something just that just "worked" 
+
+Currently working on the real code for the serverside application from ground up.
+Will update this one once it's usable.
